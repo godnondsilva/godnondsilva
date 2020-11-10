@@ -1,7 +1,7 @@
 # __Hey, I'm Godnon.__
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-godnondsilva-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/godnon-dsilva)
-[![Twitter](https://img.shields.io/twitter/follow/GodnonDsilva?style=flat-square&logo=twitter&color=green)](https://twitter.com/godnondsilva)
+[![Twitter](https://img.shields.io/twitter/follow/GodnonDsilva?style=flat-square&logo=twitter&color=yellow)](https://twitter.com/godnondsilva)
 [![GitHub](https://img.shields.io/badge/GitHub-godnondsilva-black?style=flat-square&logo=github)](https://github.com/godnondsilva)
 [![Website](https://img.shields.io/badge/Website-godnondsilva.com-red?style=flat-square)](https://godnondsilva.com)
 [![Telegram](http://img.shields.io/badge/Telegram-godnondsilva-orange?style=flat-square&logo=telegram)](https://telegram.me/godnondsilva)
