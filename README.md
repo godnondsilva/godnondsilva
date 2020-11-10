@@ -1,9 +1,9 @@
 ### Hey, I'm Godnon.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Godnondsilva-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/godnondsilva/)
-[![Twitter](https://img.shields.io/twitter/follow/Godnondsilva?style=flat-square&logo=twitter)](https://twitter.com/godnondsilva)
-[![GitHub](https://img.shields.io/badge/GitHub-Godnondsilva-lightgrey?style=flat-square&logo=github)](https://github.com/godnondsilva)
-[![Website](https://img.shields.io/badge/Website-Godnondsilva.com-red?style=flat-square)](https://godnondsilva.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-godnondsilva-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/godnondsilva/)
+[![Twitter](https://img.shields.io/twitter/follow/GodnonDsilva?style=flat-square&logo=twitter)](https://twitter.com/godnondsilva)
+[![GitHub](https://img.shields.io/badge/GitHub-godnondsilva-lightgrey?style=flat-square&logo=github)](https://github.com/godnondsilva)
+[![Website](https://img.shields.io/badge/Website-godnondsilva.com-red?style=flat-square)](https://godnondsilva.com)
 
 Hi, I'm [Godnon Dsilva](https://godnondsilva.com), a fullstack developer from India. I enjoy building everything from small business apps to interactive web apps. I'm currently pursing my Bachelor's in Computer Science & Engineering. If you would wish to contact me, you can get in touch with me.
 
