@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/GodnonDsilva?style=flat-square&logo=twitter)](https://twitter.com/godnondsilva)
 [![GitHub](https://img.shields.io/badge/GitHub-godnondsilva-black?style=flat-square&logo=github)](https://github.com/godnondsilva)
 [![Website](https://img.shields.io/badge/Website-godnondsilva.com-red?style=flat-square)](https://godnondsilva.com)
-[![Telegram](http://img.shields.io/badge/Telegram-godnondsilva-lightblue?style=flat-square&logo=telegram)](https://telegram.me/godnondsilva)
+[![Telegram](http://img.shields.io/badge/Telegram-godnondsilva-orange?style=flat-square&logo=telegram)](https://telegram.me/godnondsilva)
 
 Hi, I'm [Godnon Dsilva](https://godnondsilva.com), a fullstack developer from India. I enjoy building everything from small business apps to interactive web apps. I'm currently pursing my Bachelor's in Computer Science & Engineering. If you would wish to contact me, you can get in touch with me.
 
