@@ -6,7 +6,7 @@
 [![Website](https://img.shields.io/badge/Website-godnondsilva.com-red?style=flat-square)](https://godnondsilva.com)
 [![Telegram](http://img.shields.io/badge/Telegram-godnondsilva-orange?style=flat-square&logo=telegram)](https://telegram.me/godnondsilva)
 
-Hi, I'm [Godnon Dsilva](https://godnondsilva.com), a fullstack developer from India. I enjoy building everything from small business apps to interactive web apps. I'm currently pursing my Bachelor's in Computer Science & Engineering. If you would wish to contact me, you can get in touch with me.
+Hi, I'm a fullstack developer from India. I enjoy building everything from small business apps to interactive web apps. I'm currently pursing my Bachelor's in Computer Science & Engineering. If you would wish to contact me, you can get in touch with me.
 
 ---
 
