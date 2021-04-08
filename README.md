@@ -1,10 +1,8 @@
 # __Hey, I'm Godnon.__
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-godnondsilva-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/godnon-dsilva)
-[![Twitter](https://img.shields.io/twitter/follow/GodnonDsilva?style=flat-square&logo=twitter&color=yellow)](https://twitter.com/godnondsilva)
 [![ProfileViews](https://gpvc.arturio.dev/godnondsilva)](https://github.com/godnondsilva)
-[![Website](https://img.shields.io/badge/Website-godnondsilva.com-red?style=flat-square)](https://godnondsilva.com)
-[![Telegram](http://img.shields.io/badge/Telegram-godnondsilva-orange?style=flat-square&logo=telegram)](https://telegram.me/godnondsilva)
+[![Website](https://img.shields.io/badge/Website-godnondsilva.com-red?style=flat-square)](https://godnondsilva.vercel.app)
 
 I'm a fullstack developer from India. I enjoy building everything from small business apps to interactive web apps. I'm currently pursing my Bachelor's in Computer Science & Engineering. If you would wish to contact me, you can get in touch with me.
 
