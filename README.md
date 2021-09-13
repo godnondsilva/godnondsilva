@@ -1,25 +1,16 @@
-# __Hey, I'm Godnon.__
+# Hey, I'm Godnon.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-godnondsilva-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/godnon-dsilva)
 [![ProfileViews](https://gpvc.arturio.dev/godnondsilva)](https://github.com/godnondsilva)
+[![Twitter](https://img.shields.io/badge/Twitter-godnondsilva-blue?style=flat-square&logo=twitter)](https://twitter.com/godnondsilva)
 [![Website](https://img.shields.io/badge/Website-godnondsilva.vercel.app-red?style=flat-square)](https://godnondsilva.vercel.app)
 
 I'm a fullstack developer from India. I enjoy building everything from small business apps to interactive web apps. I'm currently pursing my Bachelor's in Computer Science & Engineering. If you would wish to contact me, you can get in touch with me.
 
----
 
-[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=godnondsilva&theme=react&layout=compact)](https://github.com/godnondsilva)
+## Github Statistics
 
----
-
-![godnondsilva's github stats](https://github-readme-stats.vercel.app/api?username=godnondsilva&count_private=true&show_icons=true&theme=react)
-
-
-[gmail]: mailto:godnondsilva@gmail.com
-[github]: https://github.com/in/godnondsilva
-[twitter]: https://twitter.com/godnondsilva
-[linkedin]: https://linkedin.com/in/godnon-dsilva
-[telegram]: https://telegram.me/godnondsilva
+[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=godnondsilva&layout=compact)](https://github.com/godnondsilva)
 
 
 <!--
