@@ -10,8 +10,8 @@ I'm a fullstack developer from India. I enjoy building everything from small bus
 
 ## Github Statistics
 
-![godnondsilva's github stats](https://github-readme-stats.vercel.app/api?username=godnondsilva&count_private=true&show_icons=true&theme=github_dark)
-[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=godnondsilva&layout=compact&theme=github_dark)](https://github.com/godnondsilva)
+| ![godnondsilva's github stats](https://github-readme-stats.vercel.app/api?username=godnondsilva&count_private=true&show_icons=true&theme=github_dark) | [![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=godnondsilva&layout=compact&theme=github_dark)](https://github.com/godnondsilva) |
+| ------------- | ------------- |
 
 <!--
 **godnondsilva/godnondsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
