@@ -10,9 +10,9 @@ I'm a fullstack developer from India. I enjoy building everything from small bus
 
 ## Github Statistics
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=godnondsilva&count_private=true&show_icons=true&theme=github_dark&bg_color=222222" alt="Godnon's stats" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=godnondsilva&theme=github-dark-blue&background=222222" alt="Godnon's stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=godnondsilva&count_private=true&show_icons=true&theme=github_dark&bg_color=222222" alt="Godnon's stats" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godnondsilva&layout=compact&theme=github_dark&bg_color=222222" alt="Godnon's stats" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godnondsilva&layout=compact&theme=github_dark&bg_color=222222" alt="Godnon's stats" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=godnondsilva&theme=github-dark-blue&background=222222" alt="Godnon's stats" /></p>
 
 
 <!--
