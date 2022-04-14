@@ -6,8 +6,8 @@ I'm a fullstack developer from India. I enjoy building everything from small bus
 [![Twitter](https://img.shields.io/badge/Twitter-GodnonDsilva-informational?style=for-the-badge&logo=twitter&logoColor=eeeeee)](https://twitter.com/godnondsilva)
 [![Website](https://img.shields.io/badge/Website-godnondsilva.vercel.app-informational?style=for-the-badge&logo=slashdot&logoColor=eeeeee)](https://godnondsilva.vercel.app)
 
-| [![GStats](https://github-readme-stats.vercel.app/api?username=godnondsilva&count_private=true&show_icons=true&theme=github_dark&bg_color=222222)](https://godnondsilva.vercel.app) | [![GStreak](https://github-readme-streak-stats.herokuapp.com/?user=godnondsilva&theme=github-dark-blue&background=222222)](https://godnondsilva.vercel.app) |
-|-------|------|
+[![GStats](https://github-readme-stats.vercel.app/api?username=godnondsilva&count_private=true&show_icons=true&theme=github_dark&bg_color=222222)](https://godnondsilva.vercel.app) <span>&nbsp;</span> [![GStreak](https://github-readme-streak-stats.herokuapp.com/?user=godnondsilva&theme=github-dark-blue&background=222222)](https://godnondsilva.vercel.app) 
+
 
 
 
