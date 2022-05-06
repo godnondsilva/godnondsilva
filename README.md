@@ -1,6 +1,6 @@
 ![Profile Banner](./github-banner.jpg)
 
-I'm a software engineer from India. I enjoy building everything from small business apps to interactive web apps. I'm currently pursing my Bachelor's Degree in Computer Science & Engineering. If you would like to get in touch with me, you can do so by following the below links:
+I'm a software engineer from India. I enjoy building everything from small business apps to interactive web apps. I'm currently pursing my Bachelor's Degree in Computer Science & Engineering. If you would like to get in touch with me, you can do so by clicking on the below links:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GodnonDsilva-informational?style=for-the-badge&logo=linkedin&logoColor=eeeeee)](https://www.linkedin.com/in/godnon-dsilva)
 [![Twitter](https://img.shields.io/badge/Twitter-GodnonDsilva-informational?style=for-the-badge&logo=twitter&logoColor=eeeeee)](https://twitter.com/godnondsilva)
