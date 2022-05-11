@@ -10,8 +10,6 @@ I'm a software engineer from India. I enjoy building everything from small busin
 |-|-|
 
 <!--
-**godnondsilva/godnondsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
